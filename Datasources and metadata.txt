@@ -14,4 +14,37 @@ GDP per capita growth (annual %)
 Population (headcounts)
 Population growth (annual %)
 
--- 
+-- World
+
+source: https://ourworldindata.org/covid-vaccinations
+All the data are provided by country for year 2020; 
+
+Country Name
+World region
+Country code
+
+
+-- Vaccination indicators 
+
+source: https://ourworldindata.org/covid-vaccinations
+All the data are provided by country for year 2020; 
+
+Date (daily count)
+Total vaccine doses
+People vaccinated: they received at least the first dose
+People fully vaccinated: they received all doses according to the protocol in the country
+Country Code
+
+
+-- Covid indicators
+
+source: https://ourworldindata.org/covid-vaccinations
+All the data are provided by country for year 2020; 
+
+Date (daily count)
+Total dealths
+Viral reproduction rate
+Hospitalized cases
+Population
+Pop density
+Country code
