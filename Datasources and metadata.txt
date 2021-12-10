@@ -1,0 +1,17 @@
+-- Development Indicators
+
+source: https://data.worldbank.org/
+All the data are provided by country for year 2020; 
+growth rates are given as growth % vs 2019.
+GDP growth rates are based on constant 2015 dollars.
+
+Country Name
+Country Code
+GDP growth (annual %)
+GDP (current US$)
+GDP per capita (current US$)
+GDP per capita growth (annual %)
+Population (headcounts)
+Population growth (annual %)
+
+-- 
