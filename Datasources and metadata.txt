@@ -49,7 +49,7 @@ Hospitalization rate: Hospitalized cases / Population
 Country code
 
 
----- Worldometer indicators
+---- Cumulated indicators
 
 https://www.worldometers.info/coronavirus/
 
