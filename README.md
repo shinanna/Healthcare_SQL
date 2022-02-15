@@ -1,4 +1,4 @@
-# Project2_Healthcare
+# Healthcare SQL Queries
 
 ## Composite Indicator Methodology:
 
